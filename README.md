@@ -1,4 +1,4 @@
-<img width="1662" height="888" alt="image" src="https://github.com/user-attachments/assets/a7824a70-32e4-48dc-bb8b-e11a16cc1bf7" /># EX01 Developing a Simple Webserver
+
 ## Date:25.11.2026
 
 ## AIM:
