@@ -1,4 +1,4 @@
-# EX01 Developing a Simple Webserver
+<img width="1662" height="888" alt="image" src="https://github.com/user-attachments/assets/a7824a70-32e4-48dc-bb8b-e11a16cc1bf7" /># EX01 Developing a Simple Webserver
 ## Date:25.11.2026
 
 ## AIM:
@@ -98,7 +98,9 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2026-11-27 143901.png>)
+<img width="1662" height="888" alt="Screenshot 2026-11-27 153218" src="https://github.com/user-attachments/assets/6de31ae0-636e-4024-a4b6-b5da119f99bd" />
+
+
 
 ![alt text](<Screenshot 2026-11-27 143927.png>)
 
