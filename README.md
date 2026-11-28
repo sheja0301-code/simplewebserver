@@ -1,4 +1,4 @@
-# EX01 Developing a Simple Webserver
+## EX01 Developing a Simple Webserver
 ## Date:25.11.2026
 
 ## AIM:
@@ -37,14 +37,18 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
 ```
+sheja.py
 from http.server import HTTPServer, BaseHTTPRequestHandler
 
 content = """
 <html>
 <head>
-<title>Top Programming Languages</title>
+<title>Simplewebserver</title>
 </head>
-<body>
+<body align="center">
+<h1>Shejashri L J</h1>
+<h2>26016939</h2>
+
 <table border="2" cellspacing="10" cellpadding="6">
 <caption>Top 5 Programming Languages</caption>
 <tr>
@@ -98,8 +102,8 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2026-11-27 153218.png>)
 
+![alt text](<Screenshot 2026-11-28 112841.png>)
 
 ![alt text](<Screenshot 2026-11-27 143927.png>)
 

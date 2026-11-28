@@ -1,3 +1,4 @@
+
 from http.server import HTTPServer, BaseHTTPRequestHandler
 
 content = """
@@ -5,7 +6,10 @@ content = """
 <head>
 <title>Top Programming Languages</title>
 </head>
-<body>
+<body align="center">
+<h1>Shejashri L J</h1>
+<h2>Register Number: 26016939</h2>
+
 <table border="2" cellspacing="10" cellpadding="6">
 <caption>Top 5 Programming Languages</caption>
 <tr>
