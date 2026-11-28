@@ -1,10 +1,6 @@
-<<<<<<< HEAD
+
 ## EX01 Developing a Simple Webserver
 ## Date:25.11.2026
-=======
-EX01 - Developing a Simple Webserver
-## Date:27.11.2026
->>>>>>> fc555b88409440d94a46b33590038942cb9dcc0a
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the Windows Specifications of your Laptop.
